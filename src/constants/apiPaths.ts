@@ -1,3 +1,5 @@
-export const USERS_URL = '/data/users.json';
-export const PROJECTS_URL = '/data/projects.json';
-export const TASKS_URL = '/data/tasks.json';
+const base = import.meta.env.BASE_URL;
+
+export const USERS_URL = `${base}data/users.json`;
+export const PROJECTS_URL = `${base}data/projects.json`;
+export const TASKS_URL = `${base}data/tasks.json`;
