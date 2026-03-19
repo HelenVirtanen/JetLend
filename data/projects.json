@@ -1,0 +1,20 @@
+{
+    "status": "OK",
+    "data": [
+        {
+            "id": 1,
+            "name": "Alpha Development",
+            "code": "ALP"
+        },
+        {
+            "id": 2,
+            "name": "Beta Research",
+            "code": "BET"
+        },
+        {
+            "id": 3,
+            "name": "Gamma Integration",
+            "code": "GAM"
+        }
+    ]
+}
