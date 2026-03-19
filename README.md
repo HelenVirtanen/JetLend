@@ -44,10 +44,10 @@
 
 ## Задача 2: Модальное окно с подтверждением
 
-**Модальное окно в открытом состоянии**
+**Открытое модальное окно**  
 ![Modal Opened](./public/screenshots/JetLendTask2.PNG)
 
-**Алерт при подтверждении**
+**После подтверждения**  
 ![Modal Closed](./public/screenshots/JetLendTask3.PNG)
 
 
