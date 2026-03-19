@@ -1,4 +1,5 @@
 # JetLend Tasks
+[Демо на GitHub Pages](https://helenvirtanen.github.io/JetLend/)
 
 ## Задача 1: разработка компонента
 
