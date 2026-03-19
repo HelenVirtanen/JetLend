@@ -1,6 +1,6 @@
 import UsersCatalog from "./components/UsersCatalog/UsersCatalog";
 import ActionButton from "./components/ActionButton/ActionButton";
-import ConsentModal from "./components/Modal/ConsentModal";
+import ConsentModal from "./components/ConsentModal/ConsentModal";
 import { useConsent } from "./hooks/useConsent";
 
 function App() {
