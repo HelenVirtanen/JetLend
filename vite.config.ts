@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitest/config'
 import react from '@vitejs/plugin-react'
 
-const repoName = 'JetLend';
+const repoName = 'jetlend';
 
 // https://vite.dev/config/
 export default defineConfig({
